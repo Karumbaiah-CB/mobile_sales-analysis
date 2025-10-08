@@ -53,7 +53,5 @@ The *Mobile Sales Analysis* dashboard offers interactive insights that help busi
 - Make better sales strategies.
 
 ---
-
-👤 *Author*: Karumbalah C B  
-📅 *Year*: 2025  
+  
 📂 *Repository*: [mobile_sales-analysis](https://github.com/Karumbalah-CB/mobile_sales-analysis)
