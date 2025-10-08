@@ -54,4 +54,4 @@ The *Mobile Sales Analysis* dashboard offers interactive insights that help busi
 
 ---
   
-📂 *Repository*: [mobile_sales-analysis](https://github.com/Karumbalah-CB/mobile_sales-analysis)
+📂 *Repository*: [mobile_sales-analysis](https://github.com/Karumbaiah-CB/mobile_sales-analysis/blob/main/README.md)
