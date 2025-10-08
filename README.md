@@ -23,7 +23,8 @@ The interactive dashboard helps in understanding business performance and suppor
 ## 📊 Power BI Dashboard
 Below is a preview of the dashboard:
 
-![Dashboard](<img width="1309" height="734" alt="dashboard" src="https://github.com/user-attachments/assets/8fe58613-a076-4716-9199-2c85eb6bf2c8" />
+![Dashboard](<img width="1309" height="734" alt="dashboard" src="https://github.com/user-attachments/assets/eb36af01-f402-4544-9924-cc7a7241e44f" />
+
 )
 
 
