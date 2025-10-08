@@ -1,2 +1,58 @@
-# mobile_sales-analysis
-Data analytics project on mobile sales analysis using Power BI
+# 📱 Mobile Sales Analysis (Power BI Project)
+
+This project focuses on analyzing mobile sales data using *Power BI* to uncover valuable insights about sales performance, top brands, and revenue trends.  
+The interactive dashboard helps in understanding business performance and supports data-driven decision-making.
+
+---
+
+## 🎯 Project Objectives
+- Analyze mobile sales performance across different time periods.
+- Identify *top-performing brands* and *best-selling models*.
+- Visualize *sales and revenue trends* using Power BI.
+- Provide key KPIs like total revenue, profit, and average sales.
+
+---
+
+## 🧰 Tools & Technologies
+- *Power BI* – Dashboard creation and data visualization  
+- *Excel / CSV* – Data source  
+- *Power Query Editor* – Data cleaning and transformation
+
+---
+
+## 📊 Power BI Dashboard
+Below is a preview of the dashboard:
+
+![Dashboard](<img width="1309" height="734" alt="dashboard" src="https://github.com/user-attachments/assets/8fe58613-a076-4716-9199-2c85eb6bf2c8" />
+)
+
+
+---
+
+## 📈 Key Insights
+- 📅 *Trend Analysis*: Monthly and quarterly sales trends  
+- 🏆 *Top Brands*: Most popular mobile brands by revenue  
+- 💰 *Revenue Breakdown*: Revenue share across regions  
+- 📊 *KPI Cards*: Total sales, total revenue, profit margin  
+
+---
+
+## 📂 Repository Contents
+- Mobile_Sales_Analysis.pbix → Power BI dashboard  
+- sales_data.xlsx → Source dataset  
+- dashboard.png → Dashboard image  
+- README.md → Project documentation
+
+---
+
+## 🧠 Conclusion
+The *Mobile Sales Analysis* dashboard offers interactive insights that help businesses:
+- Track performance,
+- Understand market demand,
+- Make better sales strategies.
+
+---
+
+👤 *Author*: Karumbalah C B  
+📅 *Year*: 2025  
+📂 *Repository*: [mobile_sales-analysis](https://github.com/Karumbalah-CB/mobile_sales-analysis)
